@@ -1,2 +1,3 @@
 # bun-test
-Trying out https://bun.sh
+
+Trying out [bun.sh](https://bun.sh).
